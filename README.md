@@ -4,7 +4,7 @@ Notebook and data resources for the MPAGS Data Mining course.
 
 Click the link below to start a Binder server or Google Colaboratory that will allow you to run through the notebook.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kendallackley/MPAGS_Data_Mining/c3041c8d84adcd5c52b518860713144ff29375a8?urlpath=lab%2Ftree%2FFindingQSOs.ipynb) \
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kendallackley/MPAGS_Data_Mining/HEAD?labpath=FindingQSOs.ipynb) \
 [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kendallackley/MPAGS_Data_Mining/blob/main/FindingQSOs.ipynb)
 
 ## Acknowledgements
